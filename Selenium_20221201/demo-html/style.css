@@ -1,0 +1,12 @@
+input[class="first_row"]{
+    background-color: blue;
+}
+
+input[name="mname"]{
+    background-color: pink;
+}
+
+p[class="first"] {
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif
+}
